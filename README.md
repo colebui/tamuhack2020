@@ -1,6 +1,8 @@
 # tamuhack2020
 TAMUHACK hackathon 2020 Cole Bui, Daniel Le, Gabi Norsworthy
 
+Demo video: https://youtu.be/H3XbPmdIL_Y
+
 To run, please first install Wolfram Desktop through https://www.wolfram.com/wolfram-one/
 
 Once installed, open the file "GeoGreen.nb" with Wolfram Desktop as a Wolfram Notebook.
